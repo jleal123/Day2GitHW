@@ -16,5 +16,11 @@ public class DemoGitHW {
 	public static void hi(){
 		System.out.println("Hi");
 	}
+
+	public static void hola(){
+		System.out.println("Hola");
+
+		
+	}
 	
 }
