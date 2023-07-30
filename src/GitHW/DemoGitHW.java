@@ -13,6 +13,8 @@ public class DemoGitHW {
 		System.out.println("Hey");
 	}
 	
-	
+	public static void hi(){
+		System.out.println("Hi");
+	}
 	
 }
